@@ -1,0 +1,13 @@
+{
+  "name": "jaix-works",
+  "displayName": "웍스 (NAVER WORKS)",
+  "description": "본인 웍스 계정 권한으로 드라이브·캘린더·메일을 다룬다(nworks CLI, 기관 User OAuth 앱).",
+  "author": {
+    "name": "제주연구원 AI센터",
+    "url": "https://github.com/jeju-inst/jaix-works"
+  },
+  "homepage": "https://github.com/jeju-inst/jaix-works",
+  "repository": "https://github.com/jeju-inst/jaix-works",
+  "license": "Apache-2.0",
+  "keywords": ["웍스", "NAVER WORKS", "드라이브", "캘린더", "메일", "nworks"]
+}
